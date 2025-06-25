@@ -22,7 +22,6 @@ This project demonstrates a basic ELT pipeline that processes 1 million+ records
 ## 📁 Directory Structure
 - `dags/`: Contains Airflow DAGs
 - `data/`: Sample CSV file
-- `sql/`: SQL scripts for transformation
 - `screenshots/`: DAG run, BigQuery table preview
 
 ## 🎯 Outcome
